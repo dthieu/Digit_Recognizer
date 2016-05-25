@@ -24,3 +24,4 @@
 */
 
 note: Với Bayes thì nên đặt ở rate là LOW hoặc MEDIUM. Bởi số chiều đặc trưng ảnh hưởng đến quá trình train và có thể gây lỗi.
+(With Bayes: We should set rate is LOW or MEDIUM)
