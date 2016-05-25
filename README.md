@@ -1,1 +1,2 @@
-# Digit_Recognizer
+# Digit Recognizer
+# Classify handwritten digits
